@@ -1,0 +1,10 @@
+{
+  "name": "asa-static-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "No-build ASA website",
+  "scripts": {
+    "dev": "node server.cjs",
+    "build": "node build.cjs"
+  }
+}

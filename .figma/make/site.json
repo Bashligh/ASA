@@ -1,0 +1,10 @@
+{
+  "description": "Explore ASA events, projects, learning roadmaps, and community programs, while connecting with a bilingual technology and science community at Shiraz University of Medical Sciences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
